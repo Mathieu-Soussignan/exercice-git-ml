@@ -13,13 +13,13 @@ Apprendre à collaborer avec Git en travaillant **en binôme** sur un petit proj
 
 ---
 
-## 📋 Instructions étape par étape
+## Instructions étape par étape
 
-### ⚙️ Étape 0 : Préparation (les deux)
+### Étape 0 : Préparation (les deux)
 
 1. **Clonez ce repository :**
    ```bash
-   git clone https://github.com/[TON-USERNAME]/exercice-git-ml.git
+   git clone https://github.com/Mathieu-Soussignan/exercice-git-ml.git
    cd exercice-git-ml
 
 2. **Vérifiez que vous êtes sur la branche main :**
